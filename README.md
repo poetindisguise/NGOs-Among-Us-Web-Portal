@@ -53,4 +53,8 @@ The Volunteers will be able to know the schedule of the NGOs' social work so tha
 
 The aim of the project was to build a portal which will connect NGOs to people. People who want to donate and work with NGOs have a hard time finding the right NGO. This problem exists on the other side as well because it is hard for NGOs with limited funding to reach out to people and inform them about their organization. This very problem is solved by our portal which lists all the NGOs around the people. We had started off by building basic features like listing the details of the NGOs. Search and Sort functionality were added based on the name, rating and category of the NGO. The Volunteer would require the work schedule of the NGO so the portal asks the NGO for it which can be updated later on. Features like rating, monetary donation and essential item donations were added, later part of which gets stored and can be viewed by both NGOs and donors.
 
+## Future scope
+  We suggest the <b>MICROSERVICE ARCHITECTURE for our future scaled-up system.</b>
+  <img src="https://user-images.githubusercontent.com/66271769/127737805-a77a5ce9-ac4e-4b4c-9058-7a037967ee28.PNG" width="600" height="600">
+
 
